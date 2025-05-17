@@ -55,6 +55,12 @@ You can explore and test the API using the following Postman collection:
 
 [👉 View Postman Collection](https://www.postman.com/amberraphael/workspace/amberfriends/collection/4008427-48e90047-8d69-4035-910d-f0f449b0c2cd?action=share&creator=4008427&active-environment=4008427-49d81c78-b8cf-4fc3-b149-6873b9ef4aa1)
 
+--- 
+
+## Development Time
+
+The implementation took approximately 1 hour and 45 minutes to complete.
+
 ---
 
 ## 🧠 Considerations
